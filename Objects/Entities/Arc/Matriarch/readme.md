@@ -1,0 +1,1 @@
+for this model the material shaders are pretty strange, embark did some very weird shader stuff for this model so retexturing is more difficult.
