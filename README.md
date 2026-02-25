@@ -16,7 +16,7 @@ This will not hold unreleased assets, for obvious reasons.
 
 **step 3, launch steam.exe through NinjaRipper**
 
-**step 4, open the properties of arc raiders game in your steam library, add launch arg: '-nothreadtimeout' (this is because the game will hang for a fat min while it rips assets, so to make sure you gather as much as you can you dont want a thread timeout)**
+**step 4, open the properties of arc raiders game in your steam library, add launch arg: '-nothreadtimeout' (this is because the game will hang for a fat min while it rips assets. so to make sure you gather as much as you can, you dont want a thread timeout)**
 
 **step 5, just launch arc raiders as normal through steam**
 
