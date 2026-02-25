@@ -24,7 +24,7 @@ step 6, while in game - you can press your rip keys and change settings as neede
 
 step optional 7, you can check PioneerGame.exe inside your rips folder after ripping for all models and textures, you will find any UI icons or images that were on screen at the time of the rip inside here as well.
 
-step optional 8, when importing to blender using the ninjaripper blender plugin, for arc raiders specifically, in raid captures should be using FOV 80 with specified resolution matching your game's screen resolution - i.e I use fullscreen at 1920x1080 so thats the resolution i specify. I believe in lobby FOV is 35, but it may vary.
+step optional 8, when importing to blender using the ninjaripper blender plugin, for arc raiders specifically, in raid captures should be using the same FOV as in your game's settings (max 80) with specified resolution matching your game's screen resolution - i.e I use fullscreen at 1920x1080 so thats the resolution i specify. I believe in lobby FOV is 35, but it may vary.
 
 enjoy, and always feel free to make a pull request with any additions. i will be active enough to look over and merge them :D
 
